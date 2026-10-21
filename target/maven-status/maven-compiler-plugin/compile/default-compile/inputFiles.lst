@@ -1,0 +1,12 @@
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/VehicleServiceApplication.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/api/ApiExceptionHandler.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/api/CreateVehicleRequest.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/api/VehicleController.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/api/VehicleNotFoundException.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/api/VehicleResponse.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/config/TimeConfiguration.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/domain/InvalidVehicleRequestException.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/domain/VehicleModel.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/domain/VehicleRepository.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/domain/VehicleService.java
+/Users/elianeytor/Documents/ESCUELA/API-Composite/src/main/java/com/fleet/vehicle/domain/VehicleTelemetry.java

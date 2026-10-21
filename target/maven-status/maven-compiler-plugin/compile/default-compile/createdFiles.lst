@@ -1,0 +1,12 @@
+com/fleet/vehicle/domain/VehicleRepository.class
+com/fleet/vehicle/config/TimeConfiguration.class
+com/fleet/vehicle/api/VehicleResponse.class
+com/fleet/vehicle/domain/InvalidVehicleRequestException.class
+com/fleet/vehicle/domain/VehicleService.class
+com/fleet/vehicle/domain/VehicleModel.class
+com/fleet/vehicle/api/VehicleNotFoundException.class
+com/fleet/vehicle/VehicleServiceApplication.class
+com/fleet/vehicle/api/VehicleController.class
+com/fleet/vehicle/api/CreateVehicleRequest.class
+com/fleet/vehicle/domain/VehicleTelemetry.class
+com/fleet/vehicle/api/ApiExceptionHandler.class
