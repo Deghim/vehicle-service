@@ -4,7 +4,7 @@ Guarda vehículos y su telemetría actual en PostgreSQL. Escucha en el puerto `1
 
 ## Preparar la base
 
-Crea una base PostgreSQL llamada `vehicle_db`. La configuración predeterminada usa `localhost:5432`, el usuario `postgres` y la contraseña `root`. Puedes cambiarla con `VEHICLE_DB_URL`, `VEHICLE_DB_USER` y `VEHICLE_DB_PASSWORD`. Hibernate crea y actualiza las tablas al iniciar.
+Crea una base PostgreSQL llamada `vehicle_db`. La configuración predeterminada usa `localhost:5432`, el usuario `postgres` y la contraseña `root`. Puedes cambiarla con `VEHICLE_DB_URL`, `VEHICLE_DB_USER` y `VEHICLE_DB_PASSWORD`. Flyway crea el esquema al iniciar con las migraciones de `src/main/resources/db/migration`.
 
 ## Iniciar el servicio
 
